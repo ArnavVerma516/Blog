@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+    background-color: #f0e8c5;
+}
+
+.image-section {
+    display: flex;
+    justify-content: center;
+    background-color: aqua
+}
+
+,
+.section-style {
+    margin-left: 25px;
+    margin-right: 25psx;
+    background-color: white;
+}
+
+div {
+    margin-top: 15px;
+}
